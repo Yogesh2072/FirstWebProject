@@ -16,3 +16,12 @@ hr {
     /* <!--After applying this border becomes invisible . i.e it becomes a box of height 0--> */
     height: 2px;
 }
+
+#hr1 {
+    width: 5%;
+    background-color: #FFDDCC;
+    border-style: dotted none none none;
+    border-top-color: grey;
+    border-top-width: 10px;
+    height: 0;
+}
